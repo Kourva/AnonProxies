@@ -1,0 +1,106 @@
+[
+    {
+        "source": "https://raw.githubusercontent.com/MrPooyaX/VpnsFucking/main/Shenzo.txt",
+        "encryption": true
+    },
+
+    {
+        "source": "https://raw.githubusercontent.com/MrPooyaX/SansorchiFucker/main/data.txt",
+        "encryption": true
+    },
+
+    {
+        "source": "https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/base64/mix",
+        "encryption": true
+    },
+
+    {
+        "source": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/base64/donated",
+        "encryption": true
+    },
+
+    {
+        "source": "https://raw.githubusercontent.com/IranianCypherpunks/sub/main/config",
+        "encryption": false
+    },
+
+    {
+        "source": "https://raw.githubusercontent.com/sashalsk/V2Ray/main/V2Config",
+        "encryption": false
+    },
+
+    {
+        "source": "https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/sub_merge.txt",
+        "encryption": false
+    },
+
+    {
+        "source": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/mix",
+        "encryption": false
+    },
+
+    {
+        "source": "https://raw.githubusercontent.com/youfoundamin/V2rayCollector/main/vmess_iran.txt",
+        "encryption": false
+    },
+
+    {
+        "source": "https://raw.githubusercontent.com/youfoundamin/V2rayCollector/main/ss_iran.txt",
+        "encryption": false
+    },
+
+    {
+        "source": "https://raw.githubusercontent.com/youfoundamin/V2rayCollector/main/trojan_iran.txt",
+        "encryption": false
+    },
+
+    {
+        "source": "https://raw.githubusercontent.com/youfoundamin/V2rayCollector/main/vless_iran.txt",
+        "encryption": false
+    },
+
+    {
+        "source": "https://raw.githubusercontent.com/youfoundamin/V2rayCollector/main/mixed_iran.txt",
+        "encryption": false
+    },
+
+    {
+        "source": "https://raw.githubusercontent.com/mostafasadeghifar/v2ray-config/main/config_file.txt",
+        "encryption": true
+    },
+
+    {
+        "source": "https://raw.githubusercontent.com/yebekhe/TVC/main/lite/config.txt",
+        "encryption": false
+    },
+
+    {
+        "source": "https://raw.githubusercontent.com/yebekhe/V2Hub/main/Split/Normal/reality",
+        "encryption": false
+    },
+
+    {
+        "source": "https://raw.githubusercontent.com/yebekhe/V2Hub/main/Split/Normal/shadowsocks",
+        "encryption": false
+    },
+
+    {
+        "source": "https://raw.githubusercontent.com/yebekhe/V2Hub/main/Split/Normal/trojan",
+        "encryption": false
+    },
+
+    {
+        "source": "https://raw.githubusercontent.com/yebekhe/V2Hub/main/Split/Normal/vless",
+        "encryption": false
+    },
+
+    {
+        "source": "https://raw.githubusercontent.com/yebekhe/V2Hub/main/Split/Normal/vmess",
+        "encryption": false
+    },
+
+    {
+        "source": "https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/all.txt",
+        "encryption": false
+    }
+]
