@@ -69,4 +69,4 @@ proxychians -q python bot.py
 ```
 
 # ⿻ Any idea or Issue ?
-You can submit your ideas and issues in [issue section](https://github.com/Kourva/AnonProxies/Issues). This project is licensed under the [**MIT License**](https://opensource.org/license/mit/). You are welcome to access the code, use it, and make modifications, all in accordance with the terms of the MIT License.
+You can submit your ideas and issues in [issue section](https://github.com/Kourva/AnonProxies/issues). This project is licensed under the [**MIT License**](https://opensource.org/license/mit/). You are welcome to access the code, use it, and make modifications, all in accordance with the terms of the MIT License.
