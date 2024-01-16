@@ -16,8 +16,9 @@ The bot will send proxies in pairs of 10 to make it easy to copy and paste proxi
 
 I hope you find this project useful! If you do, I kindly invite you to show your support by starring the project. Your encouragement means a lot to me. Thank you!
 
-Let's begin the installation process...
+> You can visit [AnonProxies](https://t.me/AnonProxies) group to see how this bot works and sends proxies.
 
+Let's begin the installation process...
 
 
 # ⿻ Installation
