@@ -2,5 +2,5 @@ certifi==2024.2.2
 charset-normalizer==3.3.2
 idna==3.7
 pyTelegramBotAPI==4.18.1
-requests==2.32.2
+requests==2.32.3
 urllib3==2.2.1
