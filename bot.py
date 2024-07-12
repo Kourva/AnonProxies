@@ -3,7 +3,7 @@
 
 # Powerfull proxy scraper bot
 # Scrapes & Sends proxies to Telegram Topics
-# By KourvA (github.com/kourva/AnonProxies)
+# By KourvA (github.com/kozyol/AnonProxies)
 
 
 # Standard imports
