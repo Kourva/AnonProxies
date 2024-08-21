@@ -8,7 +8,7 @@
 # ⿻ About AnonProxies
 There are many [proxy collectors](https://github.com/search?q=proxy%20collectors&type=repositories) and scrapers on GitHub that scrape proxies from Telegram channels or other sources. It is a good idea to have a Telegram bot that can collect all of them for you and post them in a group. As you may know, Telegram has [Topics](https://telegram.org/blog/topics-in-groups-collectible-usernames#topics-in-groups), which means you can create sub-topics such as one for vless proxy and another for trojan.
 
-<img align="right" src="https://github.com/kozyol/AnonProxies/assets/118578799/306e986c-7c63-42b2-917d-14fa80c60416" width=350>
+<img align="right" src="https://github.com/Kourva/AnonProxies/assets/118578799/306e986c-7c63-42b2-917d-14fa80c60416" width=350>
 
 This bot collects all proxies from different sources and sends them to your chosen topic. All you need to do is give the bot a few commands to tell it what to do. You can open `src/services.json` to see which sources are being used by the bot (you can also use their tools).
 
@@ -22,7 +22,7 @@ Let's begin the installation process...
 # ⿻ Installation
 1. **Clone repository**:
     ```bash
-    git clone https://github.com/kozyol/AnonProxies
+    git clone https://github.com/Kourva/AnonProxies
     ```
 2. **Navigate to Anon Proxies**:
     ```bash
